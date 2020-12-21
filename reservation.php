@@ -14,7 +14,7 @@
 <?php 
     $title = 'Index';
     //require_once 'includes/header.php'; 
-    require_once 'db/conn.php';
+  
      include_once('includes/header.php');
      ?>
 			
@@ -23,10 +23,6 @@
 				<h2>Reservation</h2>
 			</div>
 			</div>
-<?php
-    $result = $crud->getSpecialties();
-    
-    ?>
    
       <h1 class="text-center">Reservation for Classique Zoo </h1>
     
