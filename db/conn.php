@@ -1,9 +1,9 @@
 <?php
   
-    $host = 'db4free.net';
-    $db = 'zmsdb';
-    $user = 'gillian';
-    $pass = 'gillianaw';
+    $host = 'remotemysql.com';
+    $db = '3yjhiLOObS';
+    $user = '3yjhiLOObS';
+    $pass = 'Ppi0aTJ6AQ';
     $charset = 'utf8mb4';
 
 
